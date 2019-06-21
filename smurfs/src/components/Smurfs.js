@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import SelectedSmurf from './SelectedSmurf';
 import { updateSingleSmurf, toggleShowUpdate, deleteSmurf } from '../actions';
 import UpdateSmurfForm from './UpdateSmurfForm';
-import './Smurfs.css';
 
 class Smurfs extends Component {
 	handleShowSmurf = smurf => {

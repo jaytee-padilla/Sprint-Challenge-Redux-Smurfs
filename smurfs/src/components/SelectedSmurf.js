@@ -1,5 +1,4 @@
 import React from 'react';
-import "./Smurfs.css";
 
 export default function SelectedSmurf(props) {
 	return (

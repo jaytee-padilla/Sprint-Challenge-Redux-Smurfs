@@ -1,5 +1,4 @@
 import React from 'react';
-import './Smurfs.css';
 
 const UpdateSmurfForm = props => {
   return (

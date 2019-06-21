@@ -48,7 +48,7 @@ class SmurfForm extends Component {
 				/>
 				<button onClick={() => this.handleAddSmurf()} type="button">
 					Add New Smurf
-                </button>
+        </button>
 			</form>
 		);
 	}
